@@ -5,7 +5,7 @@ use strict;
 use warnings;
 
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 sub generate {
   my @chars = ('a'..'f',0..9);
@@ -32,7 +32,7 @@ UUID::Random - Generate random uuid strings
 
 =head1 DESCRIPTION
 
-This module generates random uuid strings. It does not satisfy any of the points listed in L<RFC 4122|http://tools.ietf.org/html/rfc4122> but the default format.
+This module generates random uuid strings. It does not satisfy any of the points listed in RFC 4122 (L<http://tools.ietf.org/html/rfc4122>) but the default format.
 
 
 
