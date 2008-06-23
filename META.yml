@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                UUID-Random
-version:             0.03
+version:             0.03_01
 abstract:            Generate random uuid strings
 license:             ~
 author:              
